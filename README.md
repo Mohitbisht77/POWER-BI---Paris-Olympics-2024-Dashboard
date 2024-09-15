@@ -35,6 +35,8 @@ This interactive tool allows users to filter athletes based on their age group a
 
 **f. Historical Overview of Medals by Year**
 This component displays the historical distribution of Gold, Silver, and Bronze medals across multiple Olympic years. It enables users to track how the number of medals won has fluctuated over time and which countries have performed consistently across different Olympic games.
+![Image Description](https://github.com/user-attachments/assets/00a9421c-b489-4b56-af28-62c24afd3fd1)
+
 
 ---
 
