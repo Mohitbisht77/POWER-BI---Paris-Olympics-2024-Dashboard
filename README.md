@@ -1,7 +1,7 @@
 # Paris Olympics 2024 Dashboard
 ### 1. About the Project
 
-The **Paris Olympics 2024 Dashboard** is a Power BI-based project that provides a comprehensive overview of the Olympics, focusing on the performance of various countries and athletes. Created by **Mohit Bisht**, the dashboard presents key statistics such as the distribution of medals by country, gender, and medal type, alongside athlete demographics and historical data. It serves as a visual tool to analyze the performance of athletes and countries in the upcoming Paris 2024 Olympics, helping users easily explore complex data through interactive visualizations.
+The **Paris Olympics 2024 Dashboard** is a Power BI-based project that provides a comprehensive overview of the Olympics, focusing on the performance of various countries and athletes.The dashboard presents key statistics such as the distribution of medals by country, gender, and medal type, alongside athlete demographics and historical data. It serves as a visual tool to analyze the performance of athletes and countries in the upcoming Paris 2024 Olympics, helping users easily explore complex data through interactive visualizations.
 
 ---
 
